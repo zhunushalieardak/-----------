@@ -1,0 +1,17 @@
+.brend_btn {
+	border: 0.5px solid black;
+	border-radius: 12px;
+	width: 110px;
+	padding: 10px 0;
+	transition: 0.2s;
+}
+.brend_btn:hover {
+	background-color: rgb(242, 242, 242);
+	transform: scale(1.05);
+}
+.brend_btns {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
